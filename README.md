@@ -7,7 +7,7 @@ Repository ini berisi hasil pengerjaan tugas Virtual Internship Experience (VIX)
     │── 📂 datasets/  
     │── 📂 queries/
     │── 📂 visualizations/
-    │── 📂 reports/ # Laporan PDF & CSV 
+    │── 📂 reports/ 
     │── README.md # Dokumentasi proyek 
     │── final_submission.pdf # File final submission
 
@@ -18,10 +18,4 @@ Repository ini berisi hasil pengerjaan tugas Virtual Internship Experience (VIX)
 ## 🔗 Link Penting
 - **Dashboard Looker Studio**: [https://lookerstudio.google.com/reporting/461a08c3-1c24-42d4-8599-a35384909a4f/page/JMZiE]
 - **Video Presentasi**: [Masukkan link YouTube/Google Drive]
-- **Final Submission PDF**: [Masukkan link di sini]
-
-
-## 📈 Analisis & Rekomendasi
-- **Kategori dengan penjualan tertinggi:** [Masukkan hasil]
-- **Kota dengan penjualan tertinggi:** [Masukkan hasil]
-- **Strategi peningkatan penjualan:** [Masukkan rekomendasi]
+- **PPT Presentasi**: [https://www.canva.com/design/DAGdkpIG_m0/4ttHN320pfY8CwKc9ZSeyg/edit?utm_content=DAGdkpIG_m0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
